@@ -1,0 +1,7 @@
+image:
+  file: .gitpod.Dockerfile
+
+ports:
+  - name: VNC
+    description: Opens the VNC port for X Sessions
+    port: 5900
